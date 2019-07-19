@@ -13,6 +13,9 @@ html {
 body {
   margin: 0;
 }
+article{
+  overflow:hidden !important;
+}
 article,
 aside,
 details,
